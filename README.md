@@ -2,12 +2,6 @@
 
 The AI Berkeley Pacman Project is a series of assignments and challenges designed to teach students about artificial intelligence concepts and techniques by implementing intelligent agents for the game of Pacman. The project consists of four phases, each building upon the previous one and introducing new challenges and concepts.
 
-- [Phase 1](#Phase 1: Search Algorithms)
-- [Phase 2](#Phase 2)
-- [Phase 3](#Phase 3)
-- [Phase 4](#Phase 4)
-
-
 ## Phase 1: Search Algorithms
 
 Phase 1 of the AI Berkeley Pacman Project focuses on implementing search algorithms to help Pacman navigate and find paths in a maze. The objective is to implement breadth-first search, depth-first search, uniform cost search, and A* search algorithms.
